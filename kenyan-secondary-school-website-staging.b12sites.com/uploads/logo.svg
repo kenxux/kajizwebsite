@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Kajiunduthi Senior School</title>
+  <desc id="desc">School emblem with shield, mountain, book, and motto.</desc>
+  <defs>
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#softShadow)">
+    <path d="M130 180 C 235 120, 365 120, 600 120 C 835 120, 965 120, 1070 180 L 1090 210 L 1090 230 C 1090 260, 1065 280, 1030 280 L 1000 280 L 1000 260 C 1000 210, 950 170, 900 170 L 780 170 C 740 170, 700 195, 690 235 L 610 235 L 510 235 C 500 195, 460 170, 420 170 L 300 170 C 250 170, 200 210, 200 260 L 200 280 L 170 280 C 135 280, 110 260, 110 230 L 110 210 Z" fill="#a61d1d"/>
+    <text x="600" y="210" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="66" letter-spacing="2" fill="#f7f0f0">KAJIUNDUTHI SENIOR SCHOOL</text>
+
+    <path d="M220 940 L 980 940 L 1045 1005 L 155 1005 Z" fill="#a61d1d"/>
+    <text x="600" y="980" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="48" letter-spacing="2" fill="#f7f0f0">EDUCATION IS LIFE... GUARD IT!</text>
+
+    <path d="M170 320 L 600 80 L 1030 320 L 1030 760 C 1030 840, 970 910, 900 910 L 300 910 C 230 910, 170 840, 170 760 Z" fill="#111" stroke="#0a0a0a" stroke-width="12"/>
+    <path d="M220 320 L 600 160 L 980 320 L 980 760 C 980 810, 940 860, 890 860 L 310 860 C 260 860, 220 810, 220 760 Z" fill="#f5f5f5" opacity="0.96"/>
+
+    <path d="M260 335 L 600 125 L 940 335 L 600 500 Z" fill="#191919"/>
+    <path d="M350 330 L 480 260 L 600 355 L 720 260 L 850 330 L 728 377 L 600 482 L 472 377 Z" fill="#2d2d2d"/>
+    <path d="M415 330 L 600 240 L 785 330 L 842 260 L 600 210 L 358 260 Z" fill="#111"/>
+    <path d="M240 344 L 330 296 L 440 353 L 440 430 L 330 490 L 240 430 Z" fill="#111"/>
+    <path d="M960 344 L 870 296 L 760 353 L 760 430 L 870 490 L 960 430 Z" fill="#111"/>
+
+    <circle cx="600" cy="430" r="165" fill="#f4f4f4"/>
+    <path d="M462 430 L 600 305 L 738 430 L 600 555 Z" fill="#a61d1d"/>
+    <path d="M520 450 L 600 380 L 680 450 L 600 520 Z" fill="#f9f9f9"/>
+    <path d="M450 450 C 520 405, 560 405, 600 430 C 640 455, 680 455, 750 450 L 750 590 L 450 590 Z" fill="#a61d1d"/>
+    <path d="M470 600 L 600 500 L 730 600 L 730 700 L 470 700 Z" fill="#f0f0f0"/>
+    <path d="M495 610 L 600 545 L 705 610 L 705 690 L 495 690 Z" fill="#0f0f0f" opacity="0.9"/>
+    <circle cx="600" cy="362" r="58" fill="#f5f5f5"/>
+    <path d="M600 305 L 640 360 L 600 420 L 560 360 Z" fill="#e5e5e5"/>
+    <path d="M565 594 L 600 565 L 635 594 L 635 700 L 565 700 Z" fill="#d0d0d0"/>
+    <path d="M500 680 L 715 680 L 692 770 L 523 770 Z" fill="#f3f3f3"/>
+
+    <g transform="translate(0,10)">
+      <path d="M230 730 L 330 620 L 375 730 Z" fill="#1a1a1a"/>
+      <path d="M970 730 L 870 620 L 825 730 Z" fill="#1a1a1a"/>
+      <path d="M330 730 L 300 845 L 247 845 L 275 730 Z" fill="#1a1a1a"/>
+      <path d="M870 730 L 900 845 L 953 845 L 925 730 Z" fill="#1a1a1a"/>
+    </g>
+
+    <g>
+      <path d="M320 770 L 510 770 L 535 820 L 335 820 Z" fill="#f7f7f7"/>
+      <path d="M700 770 L 880 770 L 865 820 L 715 820 Z" fill="#f7f7f7"/>
+      <path d="M390 770 L 500 690 L 515 770 Z" fill="#f1f1f1"/>
+      <path d="M810 770 L 700 690 L 685 770 Z" fill="#f1f1f1"/>
+      <path d="M460 684 L 580 640 L 640 684 L 640 760 L 460 760 Z" fill="#f6f6f6"/>
+      <path d="M485 695 L 600 642 L 715 695 L 715 740 L 485 740 Z" fill="#d1d1d1"/>
+    </g>
+
+    <g>
+      <path d="M437 703 L 500 770 L 437 770 Z" fill="#caa55c"/>
+      <path d="M500 770 L 500 840 L 462 840 L 462 770 Z" fill="#b38a4a"/>
+      <path d="M462 770 L 437 703 L 421 705 L 438 770 Z" fill="#7c5a2c"/>
+      <circle cx="415" cy="700" r="26" fill="#ddd"/>
+      <circle cx="415" cy="700" r="10" fill="#111"/>
+    </g>
+
+    <g>
+      <path d="M735 780 L 760 720 L 780 780 Z" fill="#b14a2a"/>
+      <path d="M760 720 L 760 640 L 780 640 L 780 720 Z" fill="#484848"/>
+      <path d="M742 640 L 705 620 L 760 610 L 790 640 Z" fill="#1e1e1e"/>
+      <path d="M760 610 L 840 590 L 805 672 L 760 650 Z" fill="#3f3f3f"/>
+    </g>
+
+    <g fill="#111">
+      <path d="M420 830 L 450 760 L 480 830 Z"/>
+      <path d="M720 830 L 750 760 L 780 830 Z"/>
+    </g>
+
+    <g font-family="Georgia, 'Times New Roman', serif" fill="#111">
+      <text x="600" y="944" text-anchor="middle" font-size="28" font-weight="700" letter-spacing="1">Education Is Life... Guard It</text>
+    </g>
+  </g>
+</svg>
